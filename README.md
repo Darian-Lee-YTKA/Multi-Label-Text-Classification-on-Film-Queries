@@ -1,4 +1,4 @@
-# SEE README AS PDF: 
+# [View README as pdf (recommended)](hw1_report.pdf)
 
 # Introduction
 
